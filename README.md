@@ -8,6 +8,7 @@ Este proyecto fue desarrollado con fines de **aprendizaje**, por lo que puede se
 
 ---
 ## 🚀 Demo
+<img width="820" alt="Captura de pantalla 2025-06-08 222601" src="https://github.com/user-attachments/assets/5fefc344-6104-499d-a4fd-5d064d551ab4" />
 
 ---
 
