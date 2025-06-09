@@ -7,6 +7,9 @@ Un slider de imágenes **responsive** y **personalizable**, hecho con el framewo
 Este proyecto fue desarrollado con fines de **aprendizaje**, por lo que puede ser mejorado continuamente.
 
 ---
+## 🚀 Demo
+
+---
 
 ## ✨ Características
 
